@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">The Game Awards</string>
+    <string name="action_settings">Settings</string>
+    <string name="winstonD">Winston Leonard Spencer Churchill fue un político y estadista británico, conocido por su
+                    liderazgo del Reino Unido durante la Segunda Guerra Mundial. Es considerado uno de los grandes líderes de
+                    tiempos de guerra y fue primer ministro del Reino Unido en dos períodos (1940-45 y 1951-55).
+                    Notable estadista y orador, Churchill fue también oficial del Ejército Británico, periodista
+                    (entre otros encargos, fue corresponsal de guerra en Cuba para el The Daily Graphic y,
+                    durante la Segunda Guerra Anglo-Bóer, del influyente diario conservador, The Morning Post),
+                    historiador, escritor y artista. Es el único primer ministro británico galardonado con el
+                    Premio Nobel de Literatura, y fue nombrado ciudadano honorario de los Estados Unidos de América.</string>
+    <string name="chooser">Select a year:</string>
+    <string name="listYear">Winners</string>
+    <string name="goty">Game of the Year</string>
+    <string name="indie">Best Independent Game</string>
+    <string name="actionAdventure">Best Action/Adventure Game</string>
+    <string name="shooter">Best Action Game</string>
+    <string name="fight">Best Fighting Game</string>
+    <string name="rpg">Best Role-Playing Game</string>
+    <string name="sports_racing">Best Sports/Racing Game</string>
+    <string name="performance">Best Performance</string>
+    <string name="narrative">Best Narrative</string>
+    <string name="music_sound">Best Music/Sound Design</string>
+</resources>

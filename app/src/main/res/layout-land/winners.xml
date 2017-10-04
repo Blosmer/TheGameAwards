@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="0dp"
+    android:background="@drawable/backgroundland"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/goty"
+            android:textColor="@android:color/white"
+            android:textStyle="normal|bold"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/idGoty"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="alguno que no cabree a las compañias"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/indie"
+            android:textColor="@android:color/white"
+            android:textStyle="normal|bold"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/idIndie"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="no se, pero seguro que debería ser el goty"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/shooter"
+            android:textColor="@android:color/white"
+            android:textStyle="normal|bold"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/idShooter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="alguno"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/actionAdventure"
+            android:textColor="@android:color/white"
+            android:textStyle="normal|bold"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/idActionAdventure"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="alguno"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rpg"
+            android:textColor="@android:color/white"
+            android:textStyle="normal|bold"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/idRPG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="alguno"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="40sp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sports_racing"
+            android:textColor="@android:color/white"
+            android:textStyle="normal|bold"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/idSportRacing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="alguno"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fight"
+            android:textColor="@android:color/white"
+            android:textStyle="normal|bold"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/idFighting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="alguno"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/music_sound"
+            android:textColor="@android:color/white"
+            android:textStyle="normal|bold"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/idMusic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="alguno"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/narrative"
+            android:textColor="@android:color/white"
+            android:textStyle="normal|bold"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/idNarrative"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="alguno"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/performance"
+            android:textColor="@android:color/white"
+            android:textStyle="normal|bold"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/idPerformance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="alguien"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+    </LinearLayout>
+</LinearLayout>

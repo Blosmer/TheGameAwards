@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="0dp"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/goty"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/idGoty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="alguno que no cabree a las compañias"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/indie"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/idIndie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="no se, pero seguro que debería ser el goty"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shooter"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/idShooter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="alguno"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/actionAdventure"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/idActionAdventure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="alguno"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rpg"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/idRPG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="alguno"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sports_racing"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/idSportRacing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="alguno"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fight"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/idFighting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="alguno"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/music_sound"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/idMusic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="alguno"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/narrative"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/idNarrative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="alguno"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/performance"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/idPerformance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="alguien"
+        android:textColor="@android:color/white"/>
+
+</LinearLayout>

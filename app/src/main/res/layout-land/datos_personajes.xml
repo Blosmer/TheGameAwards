@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/idNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="alguien"
+        android:textAllCaps="true"
+        android:textStyle="normal|bold" />
+
+
+    <TextView
+        android:id="@+id/idDescripcion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="fue alguien muy importante, creo" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nacimiento - Fallecimiento"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:id="@+id/idFechBD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="algun dia - otro dia" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Civilizacion"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:id="@+id/idCivi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="alguna" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Monumento"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:id="@+id/idMonumento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ver en Maps" />
+
+</LinearLayout>

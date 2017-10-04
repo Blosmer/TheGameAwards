@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Settings">
+
+        <CheckBoxPreference
+            android:id="@+id/mute"
+            android:key="mute"
+            android:title="Sound"
+            android:summary="Mute the app" />
+        <CheckBoxPreference
+            android:id="@+id/rotation"
+            android:key="rotation"
+            android:title="Auto Rotation"
+            android:summary="Activate/Deactivate Rotation" />
+
+    </PreferenceCategory>
+</PreferenceScreen>
